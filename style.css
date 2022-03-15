@@ -106,4 +106,36 @@ h3{
     font-size: 10px;
     color: white;
 }
+.recruting{
+    border: 1px solid rgb(0, 255, 191);
+    border-radius: 10px;
+    padding: 3px;
+    background-color:rgb(0, 255, 191);
+    font-size: 10px;
+    color: white;
+}
+.mobile{
+    border: 1px solid rgb(255, 153, 0);
+    border-radius: 10px;
+    padding: 3px;
+    background-color:rgb(255, 153, 0);
+    font-size: 10px;
+    color: white;
+}
+.website{
+    border: 1px solid rgb(255, 0, 140);
+    border-radius: 10px;
+    padding: 3px;
+    background-color:rgb(255, 0, 140);
+    font-size: 10px;
+    color: white;
+}
+.sales{
+    border: 1px solid rgb(151, 255, 67);
+    border-radius: 10px;
+    padding: 3px;
+    background-color:rgb(151, 255, 67);
+    font-size: 10px;
+    color: white;
+}
 
