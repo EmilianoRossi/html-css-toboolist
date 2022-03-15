@@ -1,7 +1,6 @@
 * {
     box-sizing: border-box;
 }
-
 #logo{
     height: 100%;
     vertical-align: middle;
@@ -63,7 +62,7 @@ body{
     margin:0 auto;
 }
 ul{
-    list-style-image:"./img/list.png";
+        list-style-image:"./img/list.png";
 }
 
 .spunta{
