@@ -10,6 +10,7 @@
     height: 100px;
     line-height: 100px;
     background-color: white;
+    margin-bottom: 30px;
 }
 #int{
     font-size: 40px;
@@ -25,12 +26,14 @@ body{
     height: 50px;
     width: 80%;
     margin:30px auto;
+    margin:0 auto;
     line-height: 50px;
+    border-bottom: 1px solid aliceblue;
 }
 #add{
     border: 1px solid blue;
     vertical-align: middle;
-    margin-left: 5px;
+    margin-left: 40px;
     font-size: 16px;
     border-radius: 10px;
     padding: 7px;
@@ -47,3 +50,60 @@ body{
     background-color: rgb(255, 255, 255);
     cursor: pointer;
 }
+#corpo-due{
+    border-top: 1px solid aliceblue;
+    background-color: white;
+    width: 80%;
+    margin:0 auto;
+}
+ul{
+    list-style-image:"./img/list.png";
+}
+
+.spunta{
+    border: 1px solid green;
+    border-radius: 50%;
+    padding: 1px;
+    vertical-align: middle;
+    margin-right: 4px;
+    font-size: 10px;
+    margin-left: 40px ;
+}
+.testo{
+    vertical-align: middle;
+    font-size: 15px;
+    font-family: Helvetica, sans-serif;
+    font-weight: bold;
+    display: inline-block;
+}
+h3{
+    font-family:Helvetica, sans-serif;
+    margin-left: 40px;
+    margin-bottom: 2px;
+}
+.editorial{
+    border: 1px solid rgb(35, 174, 255);
+    border-radius: 10px;
+    padding: 3px;
+    background-color:rgb(35, 174, 255);
+    font-size: 10px;
+    color: white;
+}
+.cross{
+    border: 1px solid red;
+    border-radius: 50%;
+    padding: 1px;
+    vertical-align: middle;
+    margin-right: 4px;
+    font-size: 10px;
+    margin-left: 40px ;
+}
+.goal{
+    border: 1px solid rgb(174, 0, 180);
+    border-radius: 10px;
+    padding: 3px;
+    background-color:rgb(174, 0, 180);
+    font-size: 10px;
+    color: white;
+}
+
