@@ -34,21 +34,27 @@ body{
     border: 1px solid blue;
     vertical-align: middle;
     margin-left: 40px;
-    font-size: 16px;
+    font-size: 14px;
+    font-weight: bold;
     border-radius: 10px;
     padding: 7px;
     background-color: rgb(35, 174, 255);
     cursor: pointer;
+    font-family: helvetica, sans-serif;
+    color: white;
 }
 #sec{
     border: 1px solid rgb(148, 148, 148);
     vertical-align: middle;
     margin-left: 5px;
-    font-size: 16px;
+    font-size: 14px;
     border-radius: 10px;
     padding: 7px;
     background-color: rgb(255, 255, 255);
     cursor: pointer;
+    font-family: helvetica, sans-serif;
+    color: rgb(212, 212, 212);
+    font-weight: bold;
 }
 #corpo-due{
     border-top: 1px solid aliceblue;
@@ -88,6 +94,7 @@ h3{
     background-color:rgb(35, 174, 255);
     font-size: 10px;
     color: white;
+    cursor: pointer;
 }
 .cross{
     border: 1px solid red;
@@ -105,6 +112,7 @@ h3{
     background-color:rgb(174, 0, 180);
     font-size: 10px;
     color: white;
+    cursor: pointer;
 }
 .recruting{
     border: 1px solid rgb(0, 255, 191);
@@ -113,6 +121,7 @@ h3{
     background-color:rgb(0, 255, 191);
     font-size: 10px;
     color: white;
+    cursor: pointer;
 }
 .mobile{
     border: 1px solid rgb(255, 153, 0);
@@ -121,6 +130,7 @@ h3{
     background-color:rgb(255, 153, 0);
     font-size: 10px;
     color: white;
+    cursor: pointer;
 }
 .website{
     border: 1px solid rgb(255, 0, 140);
@@ -129,6 +139,7 @@ h3{
     background-color:rgb(255, 0, 140);
     font-size: 10px;
     color: white;
+    cursor: pointer;
 }
 .sales{
     border: 1px solid rgb(151, 255, 67);
@@ -137,5 +148,6 @@ h3{
     background-color:rgb(151, 255, 67);
     font-size: 10px;
     color: white;
+    cursor: pointer;
 }
 
