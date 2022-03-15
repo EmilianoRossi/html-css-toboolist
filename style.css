@@ -1,0 +1,21 @@
+* {
+    box-sizing: border-box;
+}
+
+#logo{
+    height: 100%;
+    vertical-align: middle;
+}
+#logo-container{
+    height: 100px;
+    line-height: 100px;
+    background-color: white;
+}
+span{
+    font-size: 40px;
+    vertical-align: middle;
+    font-family: Helvetica, sans-serif;
+}
+body{
+    background-color: aliceblue;
+}
